@@ -90,7 +90,7 @@
     "import-sort-parser-typescript": "^6.0.0",
     "import-sort-style-module": "^6.0.0",
     "init-dev-env": "^1.0.0",
-    "jasmine": "^3.8.0",
+    "jasmine": "^4.1.0",
     "jasmine-core": "~3.8.0",
     "jasmine-spec-reporter": "~7.0.0",
     "js-beautify": "^1.14.0",
